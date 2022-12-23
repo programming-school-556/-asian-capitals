@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkasian_capitals"]=self["webpackChunkasian_capitals"]||[]).push([[727],{8727:function(a,n,s){s.r(n),s.d(n,{default:function(){return c}});var t=function(){var a=this,n=a._self._c;return n("div",[a._v("404")])},u=[],e=(s(7658),{created(){this.$router.push("/dialogs")}}),l=e,i=s(1001),r=(0,i.Z)(l,t,u,!1,null,null,null),c=r.exports}}]);
+//# sourceMappingURL=727.d837b56f.js.map
